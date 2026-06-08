@@ -4,9 +4,9 @@ This repository is a collection of Data Structures and Algorithms topics, with s
 
 ## Table of Contents
 
-| Topic          | Description                                                                   | Link                                                      |
-| -------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------- |
-| Bubble Sorting | Simple sorting algorithm that repeatedly compares and swaps adjacent elements | [Open Bubble Sorting](sorting/Bubble%20sorting/README.md) |
+| Topic          | Description                                                                   | Link                                                    |
+| -------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------- |
+| Bubble Sorting | Simple sorting algorithm that repeatedly compares and swaps adjacent elements | [Open Bubble Sorting](sorting/bubble-sorting/README.md) |
 
 ## How to Use
 
