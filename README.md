@@ -4,10 +4,11 @@ This repository is a collection of Data Structures and Algorithms topics, with s
 
 ## Table of Contents
 
-| Topic            | Description                                                                   | Link                                                      |
-| ---------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------- |
-| Bubble Sorting   | Simple sorting algorithm that repeatedly compares and swaps adjacent elements | [Open Bubble Sorting](sorting/bubble-sorting/README.md) |
-| Selection Sorting | Selects the smallest element and places it in the correct position           | [Open Selection Sorting](sorting/selection-sorting/README.md) |
+| Topic             | Description                                                                   | Link                                                          |
+| ----------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Bubble Sorting    | Simple sorting algorithm that repeatedly compares and swaps adjacent elements | [Open Bubble Sorting](sorting/bubble-sorting/README.md)       |
+| Selection Sorting | Selects the smallest element and places it in the correct position            | [Open Selection Sorting](sorting/selection-sorting/README.md) |
+| Insertion Sorting | Builds the final sorted array one item at a time                              | [Open Insertion Sorting](sorting/insertion-sorting/README.md) |
 
 ## How to Use
 
@@ -19,3 +20,4 @@ This repository is a collection of Data Structures and Algorithms topics, with s
 
 - Bubble Sorting
 - Selection Sorting
+- Insertion Sorting
